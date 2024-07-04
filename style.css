@@ -1,15 +1,27 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    border: 0;
+    margin: 0;
 }
 
 h1 {
     color:rgb(0, 0, 0);
     background-color: antiquewhite;
+    text-align: center;
+    margin: 0;
 }
 
 h2 {
     color:rgb(255, 255, 255);
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    text-align: center;
+    padding: 4px;
+}
+
+img {
+    margin: 20px 0;
 }
 
 #pizza-link {
@@ -33,3 +45,20 @@ h2 {
     font-weight: 900;
 }
 
+.list {
+    margin: 20px;
+    background-color: rgba(3, 255, 255, 0.092);
+    width: 300px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.small {
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0;
+}
+
+.content {
+    margin: 20px;
+}
