@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color:rgb(0, 0, 0);
+    background-color: antiquewhite;
+}
+
+h2 {
+    color:rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+}
+
+#pizza-link {
+    color:red;
+    font-family: Papyrus, "Lucida Handwriting", cursive;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#fried-chicken-link {
+    color: orange;
+    font-family: "Lucida Console", Garamond, monospace;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#burger-link {
+    color:brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+}
+
